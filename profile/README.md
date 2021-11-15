@@ -20,5 +20,5 @@ We welcome pull requests that add meaningful additions to these code samples. We
 
 ## Keeping in touch
 
-* For questions related to the Twitter API and developer platform, please use our [developer community forums](https://twittercommunity.com).
-* You can also follow us on [Twitter](https://twitter.com/twitterdev), on [YouTube](https://www.youtube.com/twitterdev), and on [Twitch](https://www.twitch.tv/twitterdev).
+* For questions related to the Twitter API and developer platform, please use our [developer community forums](https://twittercommunity.com)
+* You can also follow us on [Twitter](https://twitter.com/twitterdev), on [YouTube](https://www.youtube.com/twitterdev), and on [Twitch](https://www.twitch.tv/twitterdev)
