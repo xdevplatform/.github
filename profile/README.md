@@ -8,7 +8,7 @@ Code examples and resources for getting started with (or, getting inspired by!) 
 
 [Sign up here](https://developer.twitter.com/en/portal/petition/essential/basic-info) to start exploring and building on the Twitter API using Essential access. Check out our repositories, or dive in to our resources.
 
-* [Read Twitter Developer documentation](https://developer.twitter.com/en/docs)
+* [Read Twitter Developer documentation](https://developer.twitter.com/en/docs/twitter-api/getting-started/about-twitter-api)
 * [Explore Twitter API v2 Code Samples](https://github.com/twitterdev/Twitter-API-v2-sample-code)
 * [Learn about using Postman with the Twitter API](https://developer.twitter.com/en/docs/tools-and-libraries/using-postman)
 * [Try out example apps on Glitch](https://glitch.com/@twitter)
