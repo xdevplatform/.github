@@ -1,16 +1,24 @@
-![White Twitter logo in front of a textured horizontal banner of blue overlaid on white](https://raw.githubusercontent.com/twitterdev/.github/main/profile/twitterdev_profile_bigger.jpeg)
+![White Twitter logo in front of a blue background with some code keywords](https://raw.githubusercontent.com/twitterdev/.github/main/profile/twitterdev_profile_bigger.jpeg)
 
-Twitter is what's happening and what people are talking about right now.
-It's where news breaks and communities converge.
-And it's all powered by open source, made by a team of amazing Tweeps.
+# Twitter Developer Platform Resources
+
+Code examples and resources for getting started with (or, getting inspired by!) the [Twitter API](https://developer.twitter.com)
+
+## Getting started
+
+[Sign up here](https://developer.twitter.com/en/portal/petition/essential/basic-info) to start exploring and building on the Twitter API using Essential access. Check out our repositories, or dive in to our resources.
+
+* [Read Twitter Developer documentation](https://developer.twitter.com/en/docs)
+* [Explore Twitter API v2 Code Samples](https://github.com/twitterdev/Twitter-API-v2-sample-code)
+* [Learn about using Postman with the Twitter API](https://developer.twitter.com/en/docs/tools-and-libraries/using-postman)
+* [Try out example apps on Glitch](https://glitch.com/@twitter)
+* [Discover libraries and tools created by the community](https://developer.twitter.com/en/docs/twitter-api/tools-and-libraries/v2)
 
 ## Participating in the community
 
-🫂 We aim to create a welcoming and inclusive community. Please note that Twitter's open source projects are governed by our [code of conduct](https://github.com/twitter/.github/blob/main/code-of-conduct.md).
+We welcome pull requests that add meaningful additions to these code samples. We believe that a welcoming community is important and we ask that you follow Twitter's [Open Source Code of Conduct](https://github.com/twitter/.github/blob/main/code-of-conduct.md) in all interactions with the community.
 
-## Get in touch!
+## Keeping in touch
 
-Learn more about what we're doing in open source at [opensource.twitter.dev](https://opensource.twitter.dev).
-Interested in a career at Twitter? Check out our opportunities on [Twitter Careers](https://careers.twitter.com/)!
-
-👋  [@TwitterOSS](https://twitter.com/TwitterDev)
+* For questions related to the Twitter API and developer platform, please use our [developer community forums](https://twittercommunity.com).
+* You can also follow us on [Twitter](https://twitter.com/twitterdev), on [YouTube](https://www.youtube.com/twitterdev), and on [Twitch](https://www.twitch.tv/twitterdev).
