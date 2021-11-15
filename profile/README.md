@@ -1,6 +1,6 @@
-![White Twitter logo in front of a blue background with some code keywords](https://raw.githubusercontent.com/twitterdev/.github/main/profile/twitterdev_profile_bigger.jpeg)
-
 # Twitter Developer Platform Resources
+
+![White Twitter logo in front of a blue background with some code keywords](https://raw.githubusercontent.com/twitterdev/.github/main/profile/twitterdev_profile_bigger.jpeg)
 
 Code examples and resources for getting started with (or, getting inspired by!) the [Twitter API](https://developer.twitter.com)
 
