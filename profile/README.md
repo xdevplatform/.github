@@ -22,4 +22,4 @@ We welcome pull requests that add meaningful additions to these code samples. We
 
 * Developer Platform support is [available here](https://developer.twitter.com/en/support/twitter-api)
 * For discussions and questions on Twitter API and developer platform, please use our [developer community forums](https://twittercommunity.com)
-* You can also follow us on [Twitter](https://twitter.com/twitterdev), on [YouTube](https://www.youtube.com/twitterdev), and on [Twitch](https://www.twitch.tv/twitterdev)
+* You can also follow us on [Twitter](https://twitter.com/twitterdev), on [DEV](https://dev.to/twitterdev), on [YouTube](https://www.youtube.com/twitterdev), and on [Twitch](https://www.twitch.tv/twitterdev)
