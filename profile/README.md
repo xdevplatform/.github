@@ -13,6 +13,7 @@ Code examples and resources for getting started with (or, getting inspired by!) 
 * [Learn about using Postman with the Twitter API](https://developer.twitter.com/en/docs/tools-and-libraries/using-postman)
 * [Try out example apps on Glitch](https://glitch.com/@twitter)
 * [Discover libraries and tools created by the community](https://developer.twitter.com/en/docs/twitter-api/tools-and-libraries/v2)
+* [Download the current OpenAPI specification for the Twitter API](https://api.twitter.com/2/openapi.json) (and, [learn more](https://www.openapis.org/) about OpenAPI)
 
 ## Participating in the community
 
