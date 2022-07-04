@@ -2,7 +2,9 @@
 
 ![White Twitter logo in front of a blue background with some code keywords](https://raw.githubusercontent.com/twitterdev/.github/main/profile/twitterdev_profile_bigger.jpeg)
 
-Code examples and resources for getting started with (or, getting inspired by!) the [Twitter API](https://developer.twitter.com)
+Code examples and resources for getting started with (or, getting inspired by!) the [Twitter API](https://developer.twitter.com) 
+
+[![v2](https://img.shields.io/endpoint?url=https%3A%2F%2Ftwbadges.glitch.me%2Fbadges%2Fv2)](https://developer.twitter.com/en/docs/twitter-api)
 
 ## Getting started
 
@@ -16,9 +18,9 @@ Code examples and resources for getting started with (or, getting inspired by!) 
 * [Download the current OpenAPI specification for the Twitter API](https://api.twitter.com/2/openapi.json) (and, [learn more](https://www.openapis.org/) about OpenAPI)
 * [Contribute to the evolution of the Twitter API](https://github.com/twitterdev/open-evolution)
 
-## Participating in the Community
+## Participating in our Community
 
-We welcome Pull Requests that add meaningful additions to these samples and resources. We believe that a welcoming community is important and we ask that you follow Twitter's [Open Source Code of Conduct](https://github.com/twitter/.github/blob/main/code-of-conduct.md) in all interactions.
+We welcome Pull Requests that add meaningful additions to these samples and resources. We believe that a welcoming community is important, and we ask that you follow Twitter's [Open Source Code of Conduct](https://github.com/twitter/.github/blob/main/code-of-conduct.md) in all interactions.
 
 ## Keeping in touch
 
