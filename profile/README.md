@@ -21,6 +21,10 @@ Next...
 * Download the [current OpenAPI specification for the Twitter API](https://api.twitter.com/2/openapi.json) (and, [learn more](https://www.openapis.org/) about OpenAPI)
 * Contribute to the [evolution of the Twitter API](https://github.com/twitterdev/open-evolution)
 
+*Researchers* - welcome! See [Getting started with the Twitter API v2 for academic research](https://github.com/twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research) for a great set of exercises.
+
+*Enterprise users* - check out our [scripts for getting started](https://github.com/twitterdev/enterprise-scripts-python), and our [Google Cloud Toolkit for PowerTrack](https://github.com/twitterdev/gcloud-toolkit-power-track).
+
 ## Participating in our Community
 
 We welcome Pull Requests that add meaningful additions to our samples and resources. We believe that a welcoming community is important, and we ask that you follow Twitter's [Open Source Code of Conduct](https://github.com/twitter/.github/blob/main/code-of-conduct.md) in all interactions.
